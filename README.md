@@ -4,12 +4,13 @@
 - 🔭 Estou trabalhando em Bots para Discord
 - 🌱 Estou aprendendo Angular
 
-##
 
 <div>
   <a href="https://github.com/LuizMiguelSR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizMiguelSR&theme=blue-green"/>
 </div>
+
+  ##
   
 ### Conhecimentos
   
