@@ -1,8 +1,8 @@
 ## 👋 Oi! Eu sou o Luiz Miguel
 
 
-- 🔭 Estou trabalhando em integração de api's de e-commerce;
-- 🌱 Estou aprendendo Angular e React. 
+- 🔭 Estou trabalhando em projetos envolvendo bots para o aplicativo Discord;
+- 🌱 Estou aprendendo integração de api's para e-commerces. 
 
 ## 
 ### :octocat: Github
