@@ -1,4 +1,4 @@
-## 👋 Oi! Eu sou o @LuizMiguelSR
+## 👋 Oi! Eu sou o Luiz Miguel
 
 
 - 🔭 Estou trabalhando em projetos envolvendo bots para o aplicativo Discord;
