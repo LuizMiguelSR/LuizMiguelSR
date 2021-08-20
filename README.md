@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando em projetos envolvendo bots para o aplicativo Discord;
-- 🌱 Estou aprendendo integração de api's para e-commerces. 
+- 🌱 Estou aprendendo UML, JDBC, JavaFX, Spring Boot, JPA e Hibernate,. 
 
 ## 
 ### :octocat: Github
