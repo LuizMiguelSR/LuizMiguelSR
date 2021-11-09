@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando em projetos envolvendo bots para o aplicativo Discord;
-- 🌱 Estou aprendendo Scrum, JDBC, JavaFX, Spring Boot, JPA e Hibernate,. 
+- 🌱 Estou aprendendo Scrum e estudando para certificação Power Platform PL900. 
 
 ## 
 ### :octocat: Github
