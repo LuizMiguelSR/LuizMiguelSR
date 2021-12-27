@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando em projetos envolvendo bots para o aplicativo Discord;
-- 🌱 Estou aprendendo Scrum e estudando para certificação Power Platform PL900. 
+- 🌱 Estou aprendendo desenvolvimento de aplicativos android usando Android Studio. 
 
 ## 
 ### :octocat: Github
