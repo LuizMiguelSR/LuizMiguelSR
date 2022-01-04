@@ -1,7 +1,7 @@
 ## 👋 Oi! Eu sou o Luiz Miguel
 
 
-- 🔭 Estou trabalhando em projetos envolvendo bots para o aplicativo Discord;
+- 🔭 Estou buscando oportunidades de trabalho em projetos envolvendo desenvolvimento android;
 - 🌱 Estou aprendendo desenvolvimento de aplicativos android usando Android Studio. 
 
 ## 
