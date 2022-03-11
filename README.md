@@ -1,7 +1,7 @@
 ## 👋 Oi! Eu sou o Luiz Miguel
 
 
-- 🔭 Estou buscando oportunidades de trabalho em projetos envolvendo desenvolvimento android;
+- 🔭 Estou buscando oportunidades de trabalho em projetos envolvendo desenvolvimento web ou mobile;
 - 🌱 Estou aprendendo desenvolvimento de aplicativos android usando Android Studio. 
 
 ## 
