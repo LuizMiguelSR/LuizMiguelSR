@@ -1,8 +1,8 @@
 ## 👋 Oi! Eu sou o Luiz Miguel
 
 
-- 🔭 Estou buscando oportunidades de trabalho em projetos envolvendo desenvolvimento web ou mobile;
-- 🌱 Estou aprendendo desenvolvimento de aplicativos android usando Android Studio. 
+- 🔭 Estou buscando oportunidades de trabalho em projetos envolvendo desenvolvimento web em PHP;
+- 🌱 Estou aprendendo desenvolvimento Blockchain e Web3. 
 
 ## 
 ### :octocat: Github
