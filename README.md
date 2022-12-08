@@ -8,7 +8,7 @@ Desde já agradeço muito a sua visita e gostaria de contar um pouco sobre mim.
 ## 🤔 Sobre
 Meu nome e Luiz Miguel sou do litoral de São Paulo e participo de comunidades de desenvolvimento web utilizando PHP e sou aluno na Fatec Praia Grande.
 
-Em meu tempo livre eu participo de comunidades de desenvolvimento web, realizando projetos próprios relacionados a desenvolvimento web e mobile. Também sou monitor de Laboratório de Engenharia de Software, ajudando alunos com dificuldades nesta disciplina.
+Em meu tempo livre participo de comunidades de desenvolvimento web, realizando projetos próprios relacionados a desenvolvimento web e mobile. Também sou monitor de Laboratório de Engenharia de Software, ajudando alunos com dificuldades nesta disciplina.
 
 Recentemente participei do desenvolvimento do novo website da minha faculdade, prestando serviços de desenvolvimento frontend e backend utilizando Java e BootStrap.
 
