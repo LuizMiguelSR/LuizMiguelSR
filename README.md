@@ -1,38 +1,34 @@
-## 👋 Oi! Eu sou o Luiz Miguel
+## 👋 Bem vindo!
 
+Agradeço muito a sua visita e gostaria contar um pouco sobre mim.
 
-- 🔭 Estou buscando oportunidades de trabalho em projetos envolvendo desenvolvimento web em PHP;
-- 🌱 Estou aprendendo desenvolvimento Blockchain e Web3. 
+- 🔭 Atualmente estou em busca de oportunidades de trabalho em projetos envolvendo desenvolvimento web em PHP e Java;
+- 🌱 Estou aprendendo desenvolvimento backend em NodeJs. 
 
-## 
-### :octocat: Github
-<div align="center">
-  <a href="https://github.com/LuizMiguelSR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMiguelSR&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+## 🤔 Sobre
+Meu nome e Luiz Miguel sou do litoral de São Paulo e participo de comunidades de desenvolvimento web utilizando PHP e sou aluno na Fatec Praia Grande.
 
-## 
-### 💡 Conhecimentos
+Em meu tempo livre eu participo de comunidades de desenvolvimento web, realizando projetos próprios relacionados a desenvolvimento web e mobile. Também sou monitor de Laboratório de Engenharia de Software, ajudando alunos com dificuldades nesta disciplina.
+
+Recentemente participei do desenvolvimento do novo website da minha faculdade, prestando serviços de desenvolvimento frontend e backend utilizando Java e BootStrap.
+
+## ℹ️ Informações detalhadas
+- **Nome:** Luiz Miguel Santos Rodrigues
+- **Idade:** 32
+- **Moro em:** Praia Grande - SP, Brazil
+- **Stack:** PHP - Laravel - BootStrap - Semantic - BD Oracle - Azure
+- **Faculdade** Fatec Praia Grande (Análise e Desenvolvimento de Sistemas)
+
+## 💡 Curiosidades
   
-<div style="display: inline_block" align="center"><br>
-  <img alt="Luiz-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
-  <img alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Luiz-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img alt="Luiz-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Luiz-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-  <img alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Luiz-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="Luiz-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="Luiz-MySql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  <img alt="Luiz-Oracle" heigh="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img alt="Luiz-NodeJS" heigh="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
-  
-##
-### 📫 Contato
-<div align="center"> 
+Desde muito novo eu gosto de tecnologia, mas demorei muito para realmente integrar na carreira.
+
+Sou bacharel em Administração de Empresas com ênfase em Finanças, apesar de gostar de números a minha real paixão é a tecnologia.
+
+Já fui corretor de imóveis, algo que não fazia meu perfil, mas me ajudou muito a desenvolver minha comunicação e capacidade de negociação.
+
+## 📫 Contato
+<div> 
   <a href="https://www.linkedin.com/in/luizmiguelsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/ME8mG8sG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luizmiguel.srodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
