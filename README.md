@@ -6,9 +6,9 @@ Desde já agradeço muito a sua visita e gostaria de contar um pouco sobre mim.
 - 🌱 Estou aprendendo desenvolvimento backend em NodeJs. 
 
 ## 🤔 Sobre
-Meu nome e Luiz Miguel sou do litoral de São Paulo e participo de comunidades de desenvolvimento web utilizando PHP e sou aluno na Fatec Praia Grande.
+Meu nome e Luiz Miguel, sou do litoral de São Paulo, participo de comunidades de desenvolvimento web utilizando PHP e sou aluno na Fatec Praia Grande.
 
-Em meu tempo livre participo de comunidades de desenvolvimento web, realizando projetos próprios relacionados a desenvolvimento web e mobile. Também sou monitor de Laboratório de Engenharia de Software, ajudando alunos com dificuldades nesta disciplina.
+Em meu tempo livre participo de comunidades de desenvolvimento web, realizando projetos próprios relacionados a desenvolvimento web e mobile. Também sou monitor de Laboratório de Engenharia de Software ajudando alunos com dificuldades nesta disciplina.
 
 Recentemente participei do desenvolvimento do novo website da minha faculdade, prestando serviços de desenvolvimento frontend e backend utilizando Java e BootStrap.
 
@@ -25,7 +25,7 @@ Desde muito novo eu gosto de tecnologia, mas demorei muito para realmente integr
 
 Sou bacharel em Administração de Empresas com ênfase em Finanças, apesar de gostar de números a minha real paixão é a tecnologia.
 
-Já fui corretor de imóveis, algo que não fazia meu perfil, mas me ajudou muito a desenvolver minha comunicação e capacidade de negociação.
+Já fui corretor de imóveis, algo totalmente fora da área de tecnologia, mas me ajudou muito a desenvolver minha comunicação e capacidade de negociação.
 
 ## 📫 Contato
 <div> 
