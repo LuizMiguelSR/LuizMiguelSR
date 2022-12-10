@@ -5,7 +5,7 @@ Desde já agradeço muito a sua visita e gostaria de contar um pouco sobre mim.
 - 🔭 Atualmente estou em busca de oportunidades de trabalho em projetos envolvendo desenvolvimento web em PHP e Java;
 - 🌱 Estou aprendendo desenvolvimento backend em NodeJs. 
 
-## 🤔 Sobre
+## 💡 Sobre
 Meu nome e Luiz Miguel, sou do litoral de São Paulo, participo de comunidades de desenvolvimento web utilizando PHP e sou aluno na Fatec Praia Grande.
 
 Em meu tempo livre participo de comunidades de desenvolvimento web, realizando projetos próprios relacionados a desenvolvimento web e mobile. Também sou monitor de Laboratório de Engenharia de Software ajudando alunos com dificuldades nesta disciplina.
@@ -19,7 +19,7 @@ Recentemente participei do desenvolvimento do novo website da minha faculdade, p
 - **Stack:** PHP - Laravel - BootStrap - Semantic - BD Oracle - Azure
 - **Faculdade** Fatec Praia Grande (Análise e Desenvolvimento de Sistemas)
 
-## 💡 Curiosidades
+## 🤔 Curiosidades
   
 Desde muito novo eu gosto de tecnologia, mas demorei muito para realmente integrar na carreira.
 
