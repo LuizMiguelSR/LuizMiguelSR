@@ -3,7 +3,7 @@
 Desde já agradeço muito a sua visita e gostaria de contar um pouco sobre mim.
 
 - 🔭 Atualmente estou em busca de oportunidades de trabalho em projetos envolvendo desenvolvimento web em PHP e Java;
-- 🌱 Estou aprendendo desenvolvimento backend em NodeJs. 
+- 🌱 Estou aprendendo desenvolvimento backend em Java SpringBoot e JPA/Hibernate. 
 
 ## 💡 Sobre
 Meu nome e Luiz Miguel, sou do litoral de São Paulo, participo de comunidades de desenvolvimento web utilizando PHP e sou aluno na Fatec Praia Grande.
