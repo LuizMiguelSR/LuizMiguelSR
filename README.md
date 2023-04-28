@@ -16,7 +16,7 @@ Recentemente participei do desenvolvimento do novo website da minha faculdade, p
 - **Nome:** Luiz Miguel Santos Rodrigues
 - **Idade:** 33
 - **Moro em:** Praia Grande - SP, Brazil
-- **Stack:** PHP - Laravel - BootStrap - Semantic - BD Oracle - Azure
+- **Stack:** PHP - Laravel - BootStrap - Semantic - BD Oracle e PostGres - Azure
 - **Faculdade** Fatec Praia Grande (Análise e Desenvolvimento de Sistemas)
 
 ## 🤔 Curiosidades
