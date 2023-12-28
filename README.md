@@ -2,7 +2,7 @@
 
 Desde já agradeço muito a sua visita e gostaria de contar um pouco sobre mim.
 
-- 🔭 Atualmente estou em busca de oportunidades de trabalho em projetos envolvendo desenvolvimento web em PHP e Java;
+- 🔭 Atualmente estou em busca de oportunidades de trabalho em projetos envolvendo desenvolvimento web em PHP, Laravel e Java;
 - 🌱 Estou aprendendo desenvolvimento backend em Java SpringBoot e JPA/Hibernate. 
 
 ## 💡 Sobre
