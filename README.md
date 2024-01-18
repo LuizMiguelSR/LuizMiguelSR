@@ -3,7 +3,7 @@
 Desde já agradeço muito a sua visita e gostaria de contar um pouco sobre mim.
 
 - 🔭 Atualmente estou em busca de oportunidades de trabalho em projetos envolvendo desenvolvimento web em PHP, Laravel e Java;
-- 🌱 Estou aprendendo desenvolvimento backend em Java SpringBoot e JPA/Hibernate. 
+- 🌱 Estou aprendendo desenvolvimento web backend em C# .Net AspNet. 
 
 ## 💡 Sobre
 Meu nome e Luiz Miguel, sou do litoral de São Paulo, participo de comunidades de desenvolvimento web utilizando PHP e sou aluno na Fatec Praia Grande.
@@ -16,7 +16,7 @@ Recentemente participei do desenvolvimento do novo website da minha faculdade, p
 - **Nome:** Luiz Miguel Santos Rodrigues
 - **Idade:** 33
 - **Moro em:** Praia Grande - SP, Brazil
-- **Stack:** PHP - Laravel - BootStrap - Semantic - BD Oracle e PostGres - Azure
+- **Stack:** PHP - Laravel - CodeInite - BootStrap - Semantic - BD Oracle e PostGres - Azure
 - **Faculdade** Fatec Praia Grande (Análise e Desenvolvimento de Sistemas)
 
 ## 🤔 Curiosidades
