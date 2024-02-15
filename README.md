@@ -2,7 +2,7 @@
 
 Desde já agradeço muito a sua visita e gostaria de contar um pouco sobre mim.
 
-- 🔭 Atualmente estou em busca de oportunidades de trabalho em projetos envolvendo desenvolvimento web em PHP, Laravel e Java;
+- 🔭 Atualmente estou trabalhando como desenvolvedor back end na KBRTEC;
 - 🌱 Estou aprendendo desenvolvimento web backend em C# .Net AspNet. 
 
 ## 💡 Sobre
